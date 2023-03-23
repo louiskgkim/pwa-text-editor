@@ -1,7 +1,7 @@
 # pwa-text-editor
 
 ## Description
-
+This text editor is a web-based application that can be installed on a computer and runs in a browser. The editor was built using a combination of several technologies such as webpack, service-worker, express, javascript, css, and html. This app is a single-page application that meets the PWA criteria.
 
 ## Table of Contents
 
@@ -15,7 +15,10 @@
 ## Installation
 Some files will be needed in order for this generator to operate:
 
-- npm i express @4.16.14
+- npm i express @4.17.1
+- npm i webpack @5.76.2
+- npm i concurrently @7.6.0
+- npm i if-env @1.0.4
 
 
 ## Usage
@@ -23,11 +26,7 @@ Some files will be needed in order for this generator to operate:
 2. Open terminal in the right file path
 3. Run npm init -y into terminal to create a new .json file
 4. Run npm i into terminal
-5. Run npm i express into terminal
-6. Run npm i mongoose into terminal
-7. Run npm i moment into terminal
-8. Run npm start into the terminal
-9. Once you see the now Listening indication, open up MongoDB Compass and Insomnia.
+5. 
 
 ## Demo Video
 - [Demo Video]()
@@ -43,8 +42,10 @@ https://github.com/louiskgkim/pwa-text-editor
 
 No collaborators for this project. But some references are listed below:
 
-- [Node Installation Guide](https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs/)
 - [Express.js Installation Guide](https://expressjs.com/en/starter/installing.html)
+- [Webpack Installation Guide](https://www.npmjs.com/package/webpack)
+- [Concurrently Installation Guide](https://www.npmjs.com/package/concurrently)
+- [if-env Installation Guide](https://www.npmjs.com/package/if-env)
 
 
 ## License
