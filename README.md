@@ -26,12 +26,16 @@ Some files will be needed in order for this generator to operate:
 2. Open terminal in the right file path
 3. Run npm init -y into terminal to create a new .json file
 4. Run npm i into terminal
-5. 
+5. Run npm run start into terminal
+6. The application should now run on http://localhost:3000/
+7. Or access via Heroku: 
 
 ## Demo Video
 - [Demo Video]()
 
 ## Screenshots
+
+
 ### Repository:
 ```
 https://github.com/louiskgkim/pwa-text-editor
