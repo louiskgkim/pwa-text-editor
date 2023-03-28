@@ -7,7 +7,6 @@ This text editor is a web-based application that can be installed on a computer 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo Video](#demovideo)
 - [Screenshots](#screenshots)
 - [Credits](#credits)
 - [License](#license)
@@ -28,12 +27,11 @@ Some files will be needed in order for this generator to operate:
 4. Run npm i into terminal
 5. Run npm run start into terminal
 6. The application should now run on http://localhost:3000/
-7. Or access via Heroku: 
+7. Or access via Heroku: https://serene-ocean-21762.herokuapp.com/
 
-## Demo Video
-- [Demo Video]()
 
 ## Screenshots
+![Local test](https://user-images.githubusercontent.com/115679155/228111435-56189116-a5f9-4dad-a876-c00a679225b3.png)
 
 
 ### Repository:
