@@ -32,6 +32,7 @@ Some files will be needed in order for this generator to operate:
 
 ## Screenshots
 ![Local test](https://user-images.githubusercontent.com/115679155/228111435-56189116-a5f9-4dad-a876-c00a679225b3.png)
+![Install](https://user-images.githubusercontent.com/115679155/228703100-358b2871-6e91-44db-bdc2-1651944d7675.png)
 
 
 ### Repository:
